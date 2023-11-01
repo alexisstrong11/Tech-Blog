@@ -1,20 +1,35 @@
 # Tech-Blog
 
+
 ## **Description**
-This project utilizes Handlebars.js, Sequelize and express-session npm to create a blog for technology developers. Users are able to wite and publish their own blog as well as comment on others posts. 
+This project allowed me to use my knowledge of HTML, Github and JavaScript to strengthen my security by creating a password that meets an acceptable criteria list. I mainly worked with JavaScript to add password criteria prompts such as password length and character type. 
 
 - - - -
 ## **Table of Contents**
 - [Usage](#usage)
 - [Website Preview](#website-preview)
+- [Credits](#credits)
+    - [Markdown Reference](#markdown-reference)
+    - [README Guide](#readme-guide)
 - [License](#license)
 - [How to Contribute](#how-to-contribute)
 - - - -
 ## **Usage**
-To access and use my project, click the "Tech Blog" link shown in the [Website Preview](#website-preview)<a name="website_preview"></a> section below. 
+To access and use my project, click the "Password-Generator" link shown in the [Website Preview](#website-preview)<a name="website_preview"></a> section below. Click the red "Generate Password" button to display a series of prompts that assist in selecting a secure password that meets each acceptance criteria.
 - - - -
 ## **Website Preview**
-[Tech Blog](https://alexisstrong11.github.io/Tech-Blog/)
+[Password-Generator](https://alexisstrong11.github.io/password-generator/)
+![Screen showing Password Generator with box to input password](./PW%20Page.png "PW Page")
+- - - - 
+## **Credits**
+NOTE: *I participated in multiple study groups and received help from instructors to assist with my project.*
+
+### Markdown Reference
+[Markdown Cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md/ "Markdown Cheatsheet")
+![Markdown-cheatsheet Github repository homepage](./Markdown%20Cheatsheet.png "Markdown Cheatsheet")
+### README Guide
+[Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide/ "Professional README Guide")
+![Professional README guide homepage](./Readme%20Reference.png "Readme Reference")
 - - - - 
 ## **License**
 MIT License
